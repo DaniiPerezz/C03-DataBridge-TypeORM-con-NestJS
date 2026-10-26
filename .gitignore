@@ -1,0 +1,13 @@
+**/node_modules/
+**/dist/
+**/.expo/
+**/web-build/
+**/coverage/
+**/*.tsbuildinfo
+**/.env*
+!**/.env.example
+**/AGENTS.md
+**/CLAUDE.md
+**/.claude/
+EJERCICIO-*/backend/README.md
+.DS_Store
